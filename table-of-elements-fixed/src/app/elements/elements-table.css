@@ -5,3 +5,7 @@
 .filter-field {
   width: 300px;
 }
+.table-card {
+  margin: 1rem;
+  overflow-x: auto;
+}
